@@ -11,7 +11,7 @@ html, body {
 }
 
 #my_name {
-    font-size: 250%;
+    font-size: 350%;
     font-weight: bold;
     text-align: center;
     margin-top: 50px;
@@ -38,7 +38,7 @@ body img {
 }
 
 h2 {
-    font-size: 120%;
+    font-size: 200%;
     text-align: center;
     font-family: sans-serif;
 }
@@ -47,7 +47,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 150px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -60,7 +60,7 @@ span {
 footer {
     position: absolute;
     color: #b6bfb8;
-    font-size: 100%;
+    font-size: 150%;
     bottom: 0;
     height: 40px;
     width: 100%;
