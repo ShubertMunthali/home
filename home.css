@@ -18,7 +18,6 @@ html, body {
 }
 
 #container {
-    height: 100%;
     top: 0;
 }
 
@@ -57,7 +56,7 @@ span {
 }
 
 footer {
-    position: absolute;
+    position: relative;
     color: #b6bfb8;
     font-size: 150%;
     bottom: 0;
