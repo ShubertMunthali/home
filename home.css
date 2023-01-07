@@ -1,6 +1,6 @@
 html, body {
     margin: 0;
-    font-type: sans-serif;
+    font-family: sans-serif;
 }
 
 #my_photo {
@@ -45,6 +45,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
 }
