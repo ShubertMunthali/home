@@ -1,7 +1,6 @@
 html, body {
     margin: 0;
-    font-family: sans-serif;
-}
+} 
 
 #my_photo {
     margin-left: auto;
@@ -11,7 +10,7 @@ html, body {
 }
 
 #my_name {
-    font-size: 350%;
+    font-size: 300%;
     font-weight: bold;
     text-align: center;
     margin-top: 50px;
